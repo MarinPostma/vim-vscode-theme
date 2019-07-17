@@ -4,7 +4,7 @@ let s:White =        { 'gui': '#d4d4d4', 'cterm16': '07', 'cterm': '188' }
 let s:LightGray =    { 'gui': '#808080', 'cterm16': '07', 'cterm': '244' }
 let s:Gray =         { 'gui': '#505050', 'cterm16': '00', 'cterm': '08'  }
 let s:DarkGray =     { 'gui': '#303030', 'cterm16': '00', 'cterm': '234' }
-let s:Black =        { 'gui': '#1e1e1e', 'cterm16': '00', 'cterm': '234' }
+let s:Black =        { 'gui': '#1c2836', 'cterm16': '00', 'cterm': '234' }
 
 let s:Red =          { 'gui': '#f44747', 'cterm16': '01', 'cterm': '203' }
 let s:LightRed =     { 'gui': '#d16969', 'cterm16': '01', 'cterm': '167' }

@@ -26,7 +26,7 @@ endif
 " }}}
 
 " Terminal Colors:  {{{
-let g:terminal_color_0  = '#1e1e1e'  " black
+let g:terminal_color_0  = '#1c2836'  " black
 let g:terminal_color_1  = '#f44747'  " red
 let g:terminal_color_2  = '#608b4e'  " green
 let g:terminal_color_3  = '#d7ba7d'  " yellow
