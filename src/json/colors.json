@@ -5,7 +5,7 @@
   { "name": "LightGray",    "gui": "#808080", "cterm16": "7",  "cterm": "244" },
   { "name": "Gray",         "gui": "#505050", "cterm16": "0",  "cterm": "08"  },
   { "name": "DarkGray",     "gui": "#303030", "cterm16": "0",  "cterm": "234" },
-  { "name": "Black",        "gui": "#1e1e1e", "cterm16": "0",  "cterm": "234" },
+  { "name": "Black",        "gui": "#1c2836", "cterm16": "0",  "cterm": "234" },
 
   { "name": "Red",          "gui": "#f44747", "cterm16": "1",  "cterm": "203" },
   { "name": "LightRed",     "gui": "#d16969", "cterm16": "1",  "cterm": "167" },
